@@ -1,0 +1,1647 @@
+[
+  {
+    "old_name": "NPI",
+    "new_name": "npi",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Entity Type Code",
+    "new_name": "entity_type_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Replacement NPI",
+    "new_name": "replacement_npi",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Employer Identification Number (EIN)",
+    "new_name": "employer_id_num_ein",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Organization Name (Legal Business Name)",
+    "new_name": "prov_org_name_legal_business_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Last Name (Legal Name)",
+    "new_name": "prov_last_name_legal_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider First Name",
+    "new_name": "prov_first_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Middle Name",
+    "new_name": "prov_middle_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Name Prefix Text",
+    "new_name": "prov_name_prefix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Name Suffix Text",
+    "new_name": "prov_name_suffix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Credential Text",
+    "new_name": "prov_cred_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Organization Name",
+    "new_name": "prov_other_org_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Organization Name Type Code",
+    "new_name": "prov_other_org_name_type_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Last Name",
+    "new_name": "prov_other_last_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other First Name",
+    "new_name": "prov_other_first_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Middle Name",
+    "new_name": "prov_other_middle_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Name Prefix Text",
+    "new_name": "prov_other_name_prefix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Name Suffix Text",
+    "new_name": "prov_other_name_suffix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Credential Text",
+    "new_name": "prov_other_cred_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Other Last Name Type Code",
+    "new_name": "prov_other_last_name_type_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider First Line Business Mailing Address",
+    "new_name": "prov_first_line_business_mailing_address",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Second Line Business Mailing Address",
+    "new_name": "prov_second_line_business_mailing_address",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address City Name",
+    "new_name": "prov_business_mailing_address_city_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address State Name",
+    "new_name": "prov_business_mailing_address_state_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address Postal Code",
+    "new_name": "prov_business_mailing_address_postal_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address Country Code (If outside U.S.)",
+    "new_name": "prov_business_mailing_address_country_cd_if_outside_us",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address Telephone Number",
+    "new_name": "prov_business_mailing_address_phone_num",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Mailing Address Fax Number",
+    "new_name": "prov_business_mailing_address_fax_num",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider First Line Business Practice Location Address",
+    "new_name": "prov_first_line_business_practice_location_address",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Second Line Business Practice Location Address",
+    "new_name": "prov_second_line_business_practice_location_address",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address City Name",
+    "new_name": "prov_business_practice_location_address_city_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address State Name",
+    "new_name": "prov_business_practice_location_address_state_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address Postal Code",
+    "new_name": "prov_business_practice_location_address_postal_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address Country Code (If outside U.S.)",
+    "new_name": "prov_business_practice_location_address_country_cd_if_outside_u",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address Telephone Number",
+    "new_name": "prov_business_practice_location_address_phone_num",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Business Practice Location Address Fax Number",
+    "new_name": "prov_business_practice_location_address_fax_num",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Enumeration Date",
+    "new_name": "prov_enumeration_date",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Last Update Date",
+    "new_name": "last_update_date",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "NPI Deactivation Reason Code",
+    "new_name": "npi_deactivation_reason_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "NPI Deactivation Date",
+    "new_name": "npi_deactivation_date",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "NPI Reactivation Date",
+    "new_name": "npi_reactivation_date",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider Gender Code",
+    "new_name": "prov_gender_cd",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Last Name",
+    "new_name": "auth_offcl_last_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official First Name",
+    "new_name": "auth_offcl_first_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Middle Name",
+    "new_name": "auth_offcl_middle_name",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Title or Position",
+    "new_name": "auth_offcl_title_or_position",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Telephone Number",
+    "new_name": "auth_offcl_phone_num",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_1",
+    "new_name": "hc_prov_taxon_cd_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_1",
+    "new_name": "prov_license_num_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_1",
+    "new_name": "prov_license_num_state_cd_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_1",
+    "new_name": "hc_prov_prim_taxon_switch_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_2",
+    "new_name": "hc_prov_taxon_cd_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_2",
+    "new_name": "prov_license_num_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_2",
+    "new_name": "prov_license_num_state_cd_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_2",
+    "new_name": "hc_prov_prim_taxon_switch_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_3",
+    "new_name": "hc_prov_taxon_cd_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_3",
+    "new_name": "prov_license_num_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_3",
+    "new_name": "prov_license_num_state_cd_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_3",
+    "new_name": "hc_prov_prim_taxon_switch_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_4",
+    "new_name": "hc_prov_taxon_cd_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_4",
+    "new_name": "prov_license_num_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_4",
+    "new_name": "prov_license_num_state_cd_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_4",
+    "new_name": "hc_prov_prim_taxon_switch_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_5",
+    "new_name": "hc_prov_taxon_cd_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_5",
+    "new_name": "prov_license_num_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_5",
+    "new_name": "prov_license_num_state_cd_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_5",
+    "new_name": "hc_prov_prim_taxon_switch_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_6",
+    "new_name": "hc_prov_taxon_cd_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_6",
+    "new_name": "prov_license_num_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_6",
+    "new_name": "prov_license_num_state_cd_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_6",
+    "new_name": "hc_prov_prim_taxon_switch_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_7",
+    "new_name": "hc_prov_taxon_cd_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_7",
+    "new_name": "prov_license_num_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_7",
+    "new_name": "prov_license_num_state_cd_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_7",
+    "new_name": "hc_prov_prim_taxon_switch_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_8",
+    "new_name": "hc_prov_taxon_cd_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_8",
+    "new_name": "prov_license_num_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_8",
+    "new_name": "prov_license_num_state_cd_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_8",
+    "new_name": "hc_prov_prim_taxon_switch_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_9",
+    "new_name": "hc_prov_taxon_cd_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_9",
+    "new_name": "prov_license_num_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_9",
+    "new_name": "prov_license_num_state_cd_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_9",
+    "new_name": "hc_prov_prim_taxon_switch_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_10",
+    "new_name": "hc_prov_taxon_cd_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_10",
+    "new_name": "prov_license_num_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_10",
+    "new_name": "prov_license_num_state_cd_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_10",
+    "new_name": "hc_prov_prim_taxon_switch_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_11",
+    "new_name": "hc_prov_taxon_cd_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_11",
+    "new_name": "prov_license_num_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_11",
+    "new_name": "prov_license_num_state_cd_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_11",
+    "new_name": "hc_prov_prim_taxon_switch_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_12",
+    "new_name": "hc_prov_taxon_cd_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_12",
+    "new_name": "prov_license_num_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_12",
+    "new_name": "prov_license_num_state_cd_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_12",
+    "new_name": "hc_prov_prim_taxon_switch_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_13",
+    "new_name": "hc_prov_taxon_cd_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_13",
+    "new_name": "prov_license_num_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_13",
+    "new_name": "prov_license_num_state_cd_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_13",
+    "new_name": "hc_prov_prim_taxon_switch_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_14",
+    "new_name": "hc_prov_taxon_cd_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_14",
+    "new_name": "prov_license_num_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_14",
+    "new_name": "prov_license_num_state_cd_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_14",
+    "new_name": "hc_prov_prim_taxon_switch_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Code_15",
+    "new_name": "hc_prov_taxon_cd_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number_15",
+    "new_name": "prov_license_num_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Provider License Number State Code_15",
+    "new_name": "prov_license_num_state_cd_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Primary Taxonomy Switch_15",
+    "new_name": "hc_prov_prim_taxon_switch_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_1",
+    "new_name": "other_prov_id_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_1",
+    "new_name": "other_prov_id_type_cd_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_1",
+    "new_name": "other_prov_id_state_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_1",
+    "new_name": "other_prov_id_issuer_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_2",
+    "new_name": "other_prov_id_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_2",
+    "new_name": "other_prov_id_type_cd_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_2",
+    "new_name": "other_prov_id_state_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_2",
+    "new_name": "other_prov_id_issuer_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_3",
+    "new_name": "other_prov_id_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_3",
+    "new_name": "other_prov_id_type_cd_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_3",
+    "new_name": "other_prov_id_state_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_3",
+    "new_name": "other_prov_id_issuer_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_4",
+    "new_name": "other_prov_id_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_4",
+    "new_name": "other_prov_id_type_cd_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_4",
+    "new_name": "other_prov_id_state_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_4",
+    "new_name": "other_prov_id_issuer_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_5",
+    "new_name": "other_prov_id_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_5",
+    "new_name": "other_prov_id_type_cd_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_5",
+    "new_name": "other_prov_id_state_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_5",
+    "new_name": "other_prov_id_issuer_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_6",
+    "new_name": "other_prov_id_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_6",
+    "new_name": "other_prov_id_type_cd_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_6",
+    "new_name": "other_prov_id_state_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_6",
+    "new_name": "other_prov_id_issuer_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_7",
+    "new_name": "other_prov_id_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_7",
+    "new_name": "other_prov_id_type_cd_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_7",
+    "new_name": "other_prov_id_state_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_7",
+    "new_name": "other_prov_id_issuer_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_8",
+    "new_name": "other_prov_id_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_8",
+    "new_name": "other_prov_id_type_cd_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_8",
+    "new_name": "other_prov_id_state_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_8",
+    "new_name": "other_prov_id_issuer_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_9",
+    "new_name": "other_prov_id_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_9",
+    "new_name": "other_prov_id_type_cd_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_9",
+    "new_name": "other_prov_id_state_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_9",
+    "new_name": "other_prov_id_issuer_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_10",
+    "new_name": "other_prov_id_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_10",
+    "new_name": "other_prov_id_type_cd_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_10",
+    "new_name": "other_prov_id_state_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_10",
+    "new_name": "other_prov_id_issuer_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_11",
+    "new_name": "other_prov_id_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_11",
+    "new_name": "other_prov_id_type_cd_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_11",
+    "new_name": "other_prov_id_state_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_11",
+    "new_name": "other_prov_id_issuer_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_12",
+    "new_name": "other_prov_id_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_12",
+    "new_name": "other_prov_id_type_cd_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_12",
+    "new_name": "other_prov_id_state_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_12",
+    "new_name": "other_prov_id_issuer_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_13",
+    "new_name": "other_prov_id_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_13",
+    "new_name": "other_prov_id_type_cd_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_13",
+    "new_name": "other_prov_id_state_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_13",
+    "new_name": "other_prov_id_issuer_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_14",
+    "new_name": "other_prov_id_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_14",
+    "new_name": "other_prov_id_type_cd_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_14",
+    "new_name": "other_prov_id_state_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_14",
+    "new_name": "other_prov_id_issuer_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_15",
+    "new_name": "other_prov_id_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_15",
+    "new_name": "other_prov_id_type_cd_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_15",
+    "new_name": "other_prov_id_state_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_15",
+    "new_name": "other_prov_id_issuer_15",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_16",
+    "new_name": "other_prov_id_16",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_16",
+    "new_name": "other_prov_id_type_cd_16",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_16",
+    "new_name": "other_prov_id_state_16",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_16",
+    "new_name": "other_prov_id_issuer_16",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_17",
+    "new_name": "other_prov_id_17",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_17",
+    "new_name": "other_prov_id_type_cd_17",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_17",
+    "new_name": "other_prov_id_state_17",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_17",
+    "new_name": "other_prov_id_issuer_17",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_18",
+    "new_name": "other_prov_id_18",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_18",
+    "new_name": "other_prov_id_type_cd_18",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_18",
+    "new_name": "other_prov_id_state_18",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_18",
+    "new_name": "other_prov_id_issuer_18",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_19",
+    "new_name": "other_prov_id_19",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_19",
+    "new_name": "other_prov_id_type_cd_19",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_19",
+    "new_name": "other_prov_id_state_19",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_19",
+    "new_name": "other_prov_id_issuer_19",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_20",
+    "new_name": "other_prov_id_20",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_20",
+    "new_name": "other_prov_id_type_cd_20",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_20",
+    "new_name": "other_prov_id_state_20",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_20",
+    "new_name": "other_prov_id_issuer_20",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_21",
+    "new_name": "other_prov_id_21",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_21",
+    "new_name": "other_prov_id_type_cd_21",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_21",
+    "new_name": "other_prov_id_state_21",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_21",
+    "new_name": "other_prov_id_issuer_21",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_22",
+    "new_name": "other_prov_id_22",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_22",
+    "new_name": "other_prov_id_type_cd_22",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_22",
+    "new_name": "other_prov_id_state_22",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_22",
+    "new_name": "other_prov_id_issuer_22",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_23",
+    "new_name": "other_prov_id_23",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_23",
+    "new_name": "other_prov_id_type_cd_23",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_23",
+    "new_name": "other_prov_id_state_23",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_23",
+    "new_name": "other_prov_id_issuer_23",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_24",
+    "new_name": "other_prov_id_24",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_24",
+    "new_name": "other_prov_id_type_cd_24",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_24",
+    "new_name": "other_prov_id_state_24",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_24",
+    "new_name": "other_prov_id_issuer_24",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_25",
+    "new_name": "other_prov_id_25",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_25",
+    "new_name": "other_prov_id_type_cd_25",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_25",
+    "new_name": "other_prov_id_state_25",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_25",
+    "new_name": "other_prov_id_issuer_25",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_26",
+    "new_name": "other_prov_id_26",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_26",
+    "new_name": "other_prov_id_type_cd_26",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_26",
+    "new_name": "other_prov_id_state_26",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_26",
+    "new_name": "other_prov_id_issuer_26",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_27",
+    "new_name": "other_prov_id_27",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_27",
+    "new_name": "other_prov_id_type_cd_27",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_27",
+    "new_name": "other_prov_id_state_27",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_27",
+    "new_name": "other_prov_id_issuer_27",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_28",
+    "new_name": "other_prov_id_28",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_28",
+    "new_name": "other_prov_id_type_cd_28",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_28",
+    "new_name": "other_prov_id_state_28",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_28",
+    "new_name": "other_prov_id_issuer_28",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_29",
+    "new_name": "other_prov_id_29",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_29",
+    "new_name": "other_prov_id_type_cd_29",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_29",
+    "new_name": "other_prov_id_state_29",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_29",
+    "new_name": "other_prov_id_issuer_29",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_30",
+    "new_name": "other_prov_id_30",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_30",
+    "new_name": "other_prov_id_type_cd_30",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_30",
+    "new_name": "other_prov_id_state_30",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_30",
+    "new_name": "other_prov_id_issuer_30",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_31",
+    "new_name": "other_prov_id_31",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_31",
+    "new_name": "other_prov_id_type_cd_31",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_31",
+    "new_name": "other_prov_id_state_31",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_31",
+    "new_name": "other_prov_id_issuer_31",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_32",
+    "new_name": "other_prov_id_32",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_32",
+    "new_name": "other_prov_id_type_cd_32",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_32",
+    "new_name": "other_prov_id_state_32",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_32",
+    "new_name": "other_prov_id_issuer_32",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_33",
+    "new_name": "other_prov_id_33",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_33",
+    "new_name": "other_prov_id_type_cd_33",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_33",
+    "new_name": "other_prov_id_state_33",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_33",
+    "new_name": "other_prov_id_issuer_33",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_34",
+    "new_name": "other_prov_id_34",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_34",
+    "new_name": "other_prov_id_type_cd_34",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_34",
+    "new_name": "other_prov_id_state_34",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_34",
+    "new_name": "other_prov_id_issuer_34",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_35",
+    "new_name": "other_prov_id_35",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_35",
+    "new_name": "other_prov_id_type_cd_35",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_35",
+    "new_name": "other_prov_id_state_35",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_35",
+    "new_name": "other_prov_id_issuer_35",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_36",
+    "new_name": "other_prov_id_36",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_36",
+    "new_name": "other_prov_id_type_cd_36",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_36",
+    "new_name": "other_prov_id_state_36",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_36",
+    "new_name": "other_prov_id_issuer_36",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_37",
+    "new_name": "other_prov_id_37",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_37",
+    "new_name": "other_prov_id_type_cd_37",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_37",
+    "new_name": "other_prov_id_state_37",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_37",
+    "new_name": "other_prov_id_issuer_37",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_38",
+    "new_name": "other_prov_id_38",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_38",
+    "new_name": "other_prov_id_type_cd_38",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_38",
+    "new_name": "other_prov_id_state_38",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_38",
+    "new_name": "other_prov_id_issuer_38",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_39",
+    "new_name": "other_prov_id_39",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_39",
+    "new_name": "other_prov_id_type_cd_39",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_39",
+    "new_name": "other_prov_id_state_39",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_39",
+    "new_name": "other_prov_id_issuer_39",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_40",
+    "new_name": "other_prov_id_40",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_40",
+    "new_name": "other_prov_id_type_cd_40",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_40",
+    "new_name": "other_prov_id_state_40",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_40",
+    "new_name": "other_prov_id_issuer_40",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_41",
+    "new_name": "other_prov_id_41",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_41",
+    "new_name": "other_prov_id_type_cd_41",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_41",
+    "new_name": "other_prov_id_state_41",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_41",
+    "new_name": "other_prov_id_issuer_41",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_42",
+    "new_name": "other_prov_id_42",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_42",
+    "new_name": "other_prov_id_type_cd_42",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_42",
+    "new_name": "other_prov_id_state_42",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_42",
+    "new_name": "other_prov_id_issuer_42",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_43",
+    "new_name": "other_prov_id_43",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_43",
+    "new_name": "other_prov_id_type_cd_43",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_43",
+    "new_name": "other_prov_id_state_43",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_43",
+    "new_name": "other_prov_id_issuer_43",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_44",
+    "new_name": "other_prov_id_44",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_44",
+    "new_name": "other_prov_id_type_cd_44",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_44",
+    "new_name": "other_prov_id_state_44",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_44",
+    "new_name": "other_prov_id_issuer_44",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_45",
+    "new_name": "other_prov_id_45",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_45",
+    "new_name": "other_prov_id_type_cd_45",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_45",
+    "new_name": "other_prov_id_state_45",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_45",
+    "new_name": "other_prov_id_issuer_45",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_46",
+    "new_name": "other_prov_id_46",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_46",
+    "new_name": "other_prov_id_type_cd_46",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_46",
+    "new_name": "other_prov_id_state_46",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_46",
+    "new_name": "other_prov_id_issuer_46",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_47",
+    "new_name": "other_prov_id_47",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_47",
+    "new_name": "other_prov_id_type_cd_47",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_47",
+    "new_name": "other_prov_id_state_47",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_47",
+    "new_name": "other_prov_id_issuer_47",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_48",
+    "new_name": "other_prov_id_48",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_48",
+    "new_name": "other_prov_id_type_cd_48",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_48",
+    "new_name": "other_prov_id_state_48",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_48",
+    "new_name": "other_prov_id_issuer_48",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_49",
+    "new_name": "other_prov_id_49",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_49",
+    "new_name": "other_prov_id_type_cd_49",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_49",
+    "new_name": "other_prov_id_state_49",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_49",
+    "new_name": "other_prov_id_issuer_49",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier_50",
+    "new_name": "other_prov_id_50",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Type Code_50",
+    "new_name": "other_prov_id_type_cd_50",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier State_50",
+    "new_name": "other_prov_id_state_50",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Other Provider Identifier Issuer_50",
+    "new_name": "other_prov_id_issuer_50",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Is Sole Proprietor",
+    "new_name": "is_sole_proprietor",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Is Organization Subpart",
+    "new_name": "is_org_subpart",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Parent Organization LBN",
+    "new_name": "parent_org_lbn",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Parent Organization TIN",
+    "new_name": "parent_org_tin",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Name Prefix Text",
+    "new_name": "auth_offcl_name_prefix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Name Suffix Text",
+    "new_name": "auth_offcl_name_suffix_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Authorized Official Credential Text",
+    "new_name": "auth_offcl_cred_text",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_1",
+    "new_name": "hc_prov_taxon_group_1",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_2",
+    "new_name": "hc_prov_taxon_group_2",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_3",
+    "new_name": "hc_prov_taxon_group_3",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_4",
+    "new_name": "hc_prov_taxon_group_4",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_5",
+    "new_name": "hc_prov_taxon_group_5",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_6",
+    "new_name": "hc_prov_taxon_group_6",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_7",
+    "new_name": "hc_prov_taxon_group_7",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_8",
+    "new_name": "hc_prov_taxon_group_8",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_9",
+    "new_name": "hc_prov_taxon_group_9",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_10",
+    "new_name": "hc_prov_taxon_group_10",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_11",
+    "new_name": "hc_prov_taxon_group_11",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_12",
+    "new_name": "hc_prov_taxon_group_12",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_13",
+    "new_name": "hc_prov_taxon_group_13",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_14",
+    "new_name": "hc_prov_taxon_group_14",
+    "old_type": "TEXT"
+  },
+  {
+    "old_name": "Healthcare Provider Taxonomy Group_15",
+    "new_name": "hc_prov_taxon_group_15",
+    "old_type": "TEXT"
+  }
+]
