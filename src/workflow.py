@@ -151,7 +151,7 @@ def set_google_api(status):
     :goal: get Google API, then set them for global value
     """
     try:
-        with open('{}/google_api.json'.format(paths[0])) as json_file:
+        with open('{}/google_api.json'.format(path['input'])) as json_file:
             data = json.load(json_file)
         gmaps = googlemaps.Client(key=data['api'])
         return True
